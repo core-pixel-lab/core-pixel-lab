@@ -14,3 +14,6 @@ I bridge the gap between **hardware perception** and **intelligent control**, sp
 - **Industrial Automation**: PID controllers, tracking differentiators, motion planning
 
 ---
+
+## 🌐 Visit My Personal Website
+[qiyehwzi.github.io](https://qiyehwzi.github.io)
