@@ -1,4 +1,4 @@
-# 👋 Hi, I'm qiyehwzi | Embedded Vision & Robotics Engineer
+# 👋 Hi, I'm Core-Pixel-Lab | Embedded Vision & Robotics Engineer
 
 **Electrical Engineering Graduate | Camera & Embedded Systems Engineer**
 
