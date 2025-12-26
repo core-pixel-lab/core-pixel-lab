@@ -16,4 +16,4 @@ I bridge the gap between **hardware perception** and **intelligent control**, sp
 ---
 
 ## 🌐 Visit My Personal Website
-[qiyehwzi.github.io](https://qiyehwzi.github.io)
+[core-pixel-lab.github.io](https://core-pixel-lab.github.io)
